@@ -20,7 +20,7 @@ Do not:
 In case of errors or getting unexpected FALSE results, first control DONOTTOUCH.txt. If it contains exactly one 0 as it should,
 try to run the code once again. If you get the error or the results you think you shouldn't be getting, contact us.
 
-Tester prints failed cases, expected results and your code's answers to false_cases.txt. You can copy and paste them to evaluator.py
+Tester prints failed cases, expected results to false_cases.txt. You can copy and paste them to evaluator.py
 which came in the original THE2 folder and better observe your code's behaviour.
 
 Expected results are calculated with respect to our outputs. If you think they are incorrect, please contact us and share your output.
