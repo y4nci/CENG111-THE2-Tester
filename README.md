@@ -10,6 +10,7 @@ To use this tester:
 
 Do not:
 	Touch to DONOTTOUCH.txt unless any unexpected error occurs. That file should always contain a single 0 in it.
+	
 	Terminate tester.py's process. Always wait for it to complete its job, albeit it may take some time.
 	Forget to put DATA = get_data() to its right place back after your work with tester is done. 
 
