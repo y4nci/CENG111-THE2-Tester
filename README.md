@@ -2,6 +2,7 @@
 # Tester for the CENG111 Take Home Exam 2 in 2020-21 Fall Semester.
 
 This tester is for the second Take Home Exam of CENG 111 course.
+
 To use this tester:
 
     Cut and paste your DATA = get_data() line into the function new_move as an argument.
