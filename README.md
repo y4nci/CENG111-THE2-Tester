@@ -3,14 +3,15 @@
 
 This tester is for the second Take Home Exam of CENG 111 course.
 To use this tester:
+
     Cut and paste your DATA = get_data() line into the function new_move as an argument.
     	 for example, def new_move(DATA=get_data()):
     Import our tester_evaluator on your THE2.py file.
     And run 
 
 Do not:
+
 	Touch to DONOTTOUCH.txt unless any unexpected error occurs. That file should always contain a single 0 in it.
-	
 	Terminate tester.py's process. Always wait for it to complete its job, albeit it may take some time.
 	Forget to put DATA = get_data() to its right place back after your work with tester is done. 
 
